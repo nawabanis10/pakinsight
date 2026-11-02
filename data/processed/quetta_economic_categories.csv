@@ -1,0 +1,21 @@
+District,Sr_No,Description,PSIC_Codes,Establishments,Workforce
+Quetta,1,"Agriculture, forestry and fishing",01-03,4961,25506
+Quetta,2,Mining and quarrying,05-09,2,62
+Quetta,3,Manufacturing,10-33,7483,23371
+Quetta,4,"Electricity, gas, steam and air conditioning supply",35,4,63
+Quetta,5,"Water supply; sewerage, waste management and remediation activities",36-39,534,2106
+Quetta,6,Construction,41-43,92,725
+Quetta,7,Wholesale and retail trade; repair of motor vehicles and motorcycles,45-47,48954,124578
+Quetta,8,Transportation and storage,49-53,2263,10163
+Quetta,9,Accommodation and food service activities,55-56,4175,22293
+Quetta,10,Information and communication,58-63,595,6477
+Quetta,11,Financial and insurance activities,64-66,302,3805
+Quetta,12,Real estate activities,68,1886,5407
+Quetta,13,"Professional, scientific and technical activities",69-75,258,2498
+Quetta,14,Administrative and support service activities,77-82,403,1231
+Quetta,15,Public administration and defence; compulsory social security,84,742,20269
+Quetta,16,Education,85,3108,135234
+Quetta,17,Human health and social work activities,86-88,1521,17810
+Quetta,18,"Arts, entertainment and recreation",90-93,252,1574
+Quetta,19,Other service activities,94-96,6392,33097
+Quetta,20,others,,304,2613

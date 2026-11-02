@@ -1,0 +1,22 @@
+District,Sr_No,Description,PSIC_Codes,Establishments,Workforce
+Lahore,1,"Agriculture, forestry and fishing",01-03,13780,29161
+Lahore,2,Mining and quarrying,05-09,12,63
+Lahore,3,Manufacturing,10-33,46703,296298
+Lahore,4,"Electricity, gas, steam and air conditioning supply",35,52,2432
+Lahore,5,"Water supply; sewerage, waste management and remediation activities",36-39,1331,5442
+Lahore,6,Construction,41-43,350,3130
+Lahore,7,Wholesale and retail trade; repair of motor vehicles and motorcycles,45-47,244481,748260
+Lahore,8,Transportation and storage,49-53,8932,50498
+Lahore,9,Accommodation and food service activities,55-56,21060,123156
+Lahore,10,Information and communication,58-63,3440,52376
+Lahore,11,Financial and insurance activities,64-66,1963,36480
+Lahore,12,Real estate activities,68,8915,31486
+Lahore,13,"Professional, scientific and technical activities",69-75,2532,9607
+Lahore,14,Administrative and support service activities,77-82,2453,22429
+Lahore,15,Public administration and defence; compulsory social security,84,2294,133037
+Lahore,16,Education,85,12015,234912
+Lahore,17,Human health and social work activities,86-88,7609,81873
+Lahore,18,"Arts, entertainment and recreation",90-93,2020,12789
+Lahore,19,Other service activities,94-96,46640,104357
+Lahore,20,Activities of extraterritorial organizations and bodies,99,2,56
+Lahore,21,Others,,3307,37066

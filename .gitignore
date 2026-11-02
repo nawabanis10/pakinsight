@@ -1,0 +1,7 @@
+.env
+app/db_config.py
+.ipynb_checkpoints/
+.streamlit/.ipynb_checkpoints/
+__pycache__/
+data/Raw/table_2_national.xlsx
+*-checkpoint.csv

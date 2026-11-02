@@ -1,0 +1,22 @@
+District,Sr_No,Description,PSIC_Codes,Establishments,Workforce
+Islamabad,1,"Agriculture, forestry and fishing",01-03,4701,38007
+Islamabad,2,Mining and quarrying,05-09,2,8
+Islamabad,3,Manufacturing,10-33,9787,40389
+Islamabad,4,"Electricity, gas, steam and air conditioning supply",35,17,250
+Islamabad,5,"Water supply; sewerage, waste management and remediation activities",36-39,471,2318
+Islamabad,6,Construction,41-43,468,4564
+Islamabad,7,Wholesale and retail trade; repair of motor vehicles and motorcycles,45-47,37922,149868
+Islamabad,8,Transportation and storage,49-53,1022,11868
+Islamabad,9,Accommodation and food service activities,55-56,6099,47852
+Islamabad,10,Information and communication,58-63,1442,27806
+Islamabad,11,Financial and insurance activities,64-66,904,19107
+Islamabad,12,Real estate activities,68,4385,24583
+Islamabad,13,"Professional, scientific and technical activities",69-75,1249,8018
+Islamabad,14,Administrative and support service activities,77-82,1094,18827
+Islamabad,15,Public administration and defence; compulsory social security,84,710,29417
+Islamabad,16,Education,85,4183,114155
+Islamabad,17,Human health and social work activities,86-88,2150,25266
+Islamabad,18,"Arts, entertainment and recreation",90-93,390,3346
+Islamabad,19,Other service activities,94-96,8843,52638
+Islamabad,20,Activities of extraterritorial organizations and bodies,99,0,0
+Islamabad,21,Others,,315,3227

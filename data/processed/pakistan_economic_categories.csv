@@ -1,0 +1,168 @@
+District,Sr_No,Description,PSIC_Codes,Establishments,Workforce,City
+Lahore,1,"Agriculture, forestry and fishing",01-03,13780,29161,Lahore
+Lahore,2,Mining and quarrying,05-09,12,63,Lahore
+Lahore,3,Manufacturing,10-33,46703,296298,Lahore
+Lahore,4,"Electricity, gas, steam and air conditioning supply",35,52,2432,Lahore
+Lahore,5,"Water supply; sewerage, waste management and remediation activities",36-39,1331,5442,Lahore
+Lahore,6,Construction,41-43,350,3130,Lahore
+Lahore,7,Wholesale and retail trade; repair of motor vehicles and motorcycles,45-47,244481,748260,Lahore
+Lahore,8,Transportation and storage,49-53,8932,50498,Lahore
+Lahore,9,Accommodation and food service activities,55-56,21060,123156,Lahore
+Lahore,10,Information and communication,58-63,3440,52376,Lahore
+Lahore,11,Financial and insurance activities,64-66,1963,36480,Lahore
+Lahore,12,Real estate activities,68,8915,31486,Lahore
+Lahore,13,"Professional, scientific and technical activities",69-75,2532,9607,Lahore
+Lahore,14,Administrative and support service activities,77-82,2453,22429,Lahore
+Lahore,15,Public administration and defence; compulsory social security,84,2294,133037,Lahore
+Lahore,16,Education,85,12015,234912,Lahore
+Lahore,17,Human health and social work activities,86-88,7609,81873,Lahore
+Lahore,18,"Arts, entertainment and recreation",90-93,2020,12789,Lahore
+Lahore,19,Other service activities,94-96,46640,104357,Lahore
+Lahore,20,Activities of extraterritorial organizations and bodies,99,2,56,Lahore
+Lahore,21,Others,,3307,37066,Lahore
+Karachi East,1,"Agriculture, forestry and fishing",01-03,664,1628,Karachi
+Karachi East,2,Mining and quarrying,05-09,5,17,Karachi
+Karachi East,3,Manufacturing,10-33,9857,42745,Karachi
+Karachi East,4,"Electricity, gas, steam and air conditioning supply",35,39,1008,Karachi
+Karachi East,5,"Water supply; sewerage, waste management and remediation activities",36-39,613,1908,Karachi
+Karachi East,6,Construction,41-43,227,3670,Karachi
+Karachi East,7,Wholesale and retail trade; repair of motor vehicles and motorcycles,45-47,47985,155837,Karachi
+Karachi East,8,Transportation and storage,49-53,1730,10313,Karachi
+Karachi East,9,Accommodation and food service activities,55-56,4768,29937,Karachi
+Karachi East,10,Information and communication,58-63,1287,24969,Karachi
+Karachi East,11,Financial and insurance activities,64-66,790,15898,Karachi
+Karachi East,12,Real estate activities,68,2401,7720,Karachi
+Karachi East,13,"Professional, scientific and technical activities",69-75,315,1686,Karachi
+Karachi East,14,Administrative and support service activities,77-82,722,10317,Karachi
+Karachi East,15,Public administration and defence; compulsory social security,84,587,24559,Karachi
+Karachi East,16,Education,85,2896,61109,Karachi
+Karachi East,17,Human health and social work activities,86-88,2200,30141,Karachi
+Karachi East,18,"Arts, entertainment and recreation",90-93,504,2226,Karachi
+Karachi East,19,Other service activities,94-96,9738,27418,Karachi
+Karachi East,20,Activities of extraterritorial organizations and bodies,99,0,0,Karachi
+Karachi East,21,others,,852,14126,Karachi
+Karachi West,1,"Agriculture, forestry and fishing",01-03,846,2124,Karachi
+Karachi West,2,Mining and quarrying,05-09,0,0,Karachi
+Karachi West,3,Manufacturing,10-33,7011,30805,Karachi
+Karachi West,4,"Electricity, gas, steam and air conditioning supply",35,7,23,Karachi
+Karachi West,5,"Water supply; sewerage, waste management and remediation activities",36-39,229,594,Karachi
+Karachi West,6,Construction,41-43,23,82,Karachi
+Karachi West,7,Wholesale and retail trade; repair of motor vehicles and motorcycles,45-47,34899,77653,Karachi
+Karachi West,8,Transportation and storage,49-53,1497,5153,Karachi
+Karachi West,9,Accommodation and food service activities,55-56,2430,10447,Karachi
+Karachi West,10,Information and communication,58-63,363,1106,Karachi
+Karachi West,11,Financial and insurance activities,64-66,59,686,Karachi
+Karachi West,12,Real estate activities,68,946,1777,Karachi
+Karachi West,13,"Professional, scientific and technical activities",69-75,135,295,Karachi
+Karachi West,14,Administrative and support service activities,77-82,194,437,Karachi
+Karachi West,15,Public administration and defence; compulsory social security,84,127,2756,Karachi
+Karachi West,16,Education,85,2161,34574,Karachi
+Karachi West,17,Human health and social work activities,86-88,1244,6172,Karachi
+Karachi West,18,"Arts, entertainment and recreation",90-93,284,498,Karachi
+Karachi West,19,Other service activities,94-96,6831,12857,Karachi
+Karachi West,20,Activities of extraterritorial organizations and bodies,99,0,0,Karachi
+Karachi West,21,others,,456,1253,Karachi
+Karachi Central,1,"Agriculture, forestry and fishing",01-03,573,1536,Karachi
+Karachi Central,2,Mining and quarrying,05-09,1,3,Karachi
+Karachi Central,3,Manufacturing,10-33,12673,76309,Karachi
+Karachi Central,4,"Electricity, gas, steam and air conditioning supply",35,12,1872,Karachi
+Karachi Central,5,"Water supply; sewerage, waste management and remediation activities",36-39,650,2880,Karachi
+Karachi Central,6,Construction,41-43,56,205,Karachi
+Karachi Central,7,Wholesale and retail trade; repair of motor vehicles and motorcycles,45-47,51113,180044,Karachi
+Karachi Central,8,Transportation and storage,49-53,2854,10638,Karachi
+Karachi Central,9,Accommodation and food service activities,55-56,4549,24617,Karachi
+Karachi Central,10,Information and communication,58-63,768,3553,Karachi
+Karachi Central,11,Financial and insurance activities,64-66,434,5898,Karachi
+Karachi Central,12,Real estate activities,68,1695,3923,Karachi
+Karachi Central,13,"Professional, scientific and technical activities",69-75,248,600,Karachi
+Karachi Central,14,Administrative and support service activities,77-82,488,2729,Karachi
+Karachi Central,15,Public administration and defence; compulsory social security,84,206,11443,Karachi
+Karachi Central,16,Education,85,2989,57792,Karachi
+Karachi Central,17,Human health and social work activities,86-88,2129,22704,Karachi
+Karachi Central,18,"Arts, entertainment and recreation",90-93,414,1255,Karachi
+Karachi Central,19,Other service activities,94-96,8443,18748,Karachi
+Karachi Central,20,Activities of extraterritorial organizations and bodies,99,0,0,Karachi
+Karachi Central,21,others,,578,4330,Karachi
+Karachi South,1,"Agriculture, forestry and fishing",01-03,360,599,Karachi
+Karachi South,2,Mining and quarrying,05-09,1,2,Karachi
+Karachi South,3,Manufacturing,10-33,9864,28979,Karachi
+Karachi South,4,"Electricity, gas, steam and air conditioning supply",35,18,116,Karachi
+Karachi South,5,"Water supply; sewerage, waste management and remediation activities",36-39,324,1212,Karachi
+Karachi South,6,Construction,41-43,125,2022,Karachi
+Karachi South,7,Wholesale and retail trade; repair of motor vehicles and motorcycles,45-47,64858,167997,Karachi
+Karachi South,8,Transportation and storage,49-53,4149,14054,Karachi
+Karachi South,9,Accommodation and food service activities,55-56,4244,29752,Karachi
+Karachi South,10,Information and communication,58-63,1176,15684,Karachi
+Karachi South,11,Financial and insurance activities,64-66,945,38468,Karachi
+Karachi South,12,Real estate activities,68,1338,5284,Karachi
+Karachi South,13,"Professional, scientific and technical activities",69-75,862,3786,Karachi
+Karachi South,14,Administrative and support service activities,77-82,686,8629,Karachi
+Karachi South,15,Public administration and defence; compulsory social security,84,879,52616,Karachi
+Karachi South,16,Education,85,1981,48994,Karachi
+Karachi South,17,Human health and social work activities,86-88,1639,29602,Karachi
+Karachi South,18,"Arts, entertainment and recreation",90-93,482,2681,Karachi
+Karachi South,19,Other service activities,94-96,7777,16354,Karachi
+Karachi South,20,Activities of extraterritorial organizations and bodies,99,0,0,Karachi
+Karachi South,21,others,,1179,12988,Karachi
+Peshawar,1,"Agriculture, forestry and fishing",1 to 3,7260,31301,Peshawar
+Peshawar,2,Mining and quarrying,5 to 9,0,0,Peshawar
+Peshawar,3,Manufacturing,10 to 33,12399,50816,Peshawar
+Peshawar,4,"Electricity, gas, steam and air conditioning supply",35,4,57,Peshawar
+Peshawar,5,"Water supply; sewerage, waste management and remediation activities",36-39,960,11512,Peshawar
+Peshawar,6,Construction,41-43,125,862,Peshawar
+Peshawar,7,Wholesale and retail trade; repair of motor vehicles and motorcycles,45-47,59960,169275,Peshawar
+Peshawar,8,Transportation and storage,49-53,2978,13066,Peshawar
+Peshawar,9,Accommodation and food service activities,55-56,5808,33110,Peshawar
+Peshawar,10,Information and communication,58-63,1033,9117,Peshawar
+Peshawar,11,Financial and insurance activities,64-66,490,5553,Peshawar
+Peshawar,12,Real estate activities,68,2010,10537,Peshawar
+Peshawar,13,"Professional, scientific and technical activities",69-75,511,2363,Peshawar
+Peshawar,14,Administrative and support service activities,77-82,555,2314,Peshawar
+Peshawar,15,Public administration and defence; compulsory social security,84,670,29306,Peshawar
+Peshawar,16,Education,85,5712,135910,Peshawar
+Peshawar,17,Human health and social work activities,86-88,3128,30242,Peshawar
+Peshawar,18,"Arts, entertainment and recreation",90-93,221,1667,Peshawar
+Peshawar,19,Other service activities,94-96,11616,48575,Peshawar
+Peshawar,20,Activities of extraterritorial organizations and bodies,99,0,0,Peshawar
+Peshawar,21,Others,,582,2076,Peshawar
+Quetta,1,"Agriculture, forestry and fishing",01-03,4961,25506,Quetta
+Quetta,2,Mining and quarrying,05-09,2,62,Quetta
+Quetta,3,Manufacturing,10-33,7483,23371,Quetta
+Quetta,4,"Electricity, gas, steam and air conditioning supply",35,4,63,Quetta
+Quetta,5,"Water supply; sewerage, waste management and remediation activities",36-39,534,2106,Quetta
+Quetta,6,Construction,41-43,92,725,Quetta
+Quetta,7,Wholesale and retail trade; repair of motor vehicles and motorcycles,45-47,48954,124578,Quetta
+Quetta,8,Transportation and storage,49-53,2263,10163,Quetta
+Quetta,9,Accommodation and food service activities,55-56,4175,22293,Quetta
+Quetta,10,Information and communication,58-63,595,6477,Quetta
+Quetta,11,Financial and insurance activities,64-66,302,3805,Quetta
+Quetta,12,Real estate activities,68,1886,5407,Quetta
+Quetta,13,"Professional, scientific and technical activities",69-75,258,2498,Quetta
+Quetta,14,Administrative and support service activities,77-82,403,1231,Quetta
+Quetta,15,Public administration and defence; compulsory social security,84,742,20269,Quetta
+Quetta,16,Education,85,3108,135234,Quetta
+Quetta,17,Human health and social work activities,86-88,1521,17810,Quetta
+Quetta,18,"Arts, entertainment and recreation",90-93,252,1574,Quetta
+Quetta,19,Other service activities,94-96,6392,33097,Quetta
+Quetta,20,others,,304,2613,Quetta
+Islamabad,1,"Agriculture, forestry and fishing",01-03,4701,38007,Islamabad
+Islamabad,2,Mining and quarrying,05-09,2,8,Islamabad
+Islamabad,3,Manufacturing,10-33,9787,40389,Islamabad
+Islamabad,4,"Electricity, gas, steam and air conditioning supply",35,17,250,Islamabad
+Islamabad,5,"Water supply; sewerage, waste management and remediation activities",36-39,471,2318,Islamabad
+Islamabad,6,Construction,41-43,468,4564,Islamabad
+Islamabad,7,Wholesale and retail trade; repair of motor vehicles and motorcycles,45-47,37922,149868,Islamabad
+Islamabad,8,Transportation and storage,49-53,1022,11868,Islamabad
+Islamabad,9,Accommodation and food service activities,55-56,6099,47852,Islamabad
+Islamabad,10,Information and communication,58-63,1442,27806,Islamabad
+Islamabad,11,Financial and insurance activities,64-66,904,19107,Islamabad
+Islamabad,12,Real estate activities,68,4385,24583,Islamabad
+Islamabad,13,"Professional, scientific and technical activities",69-75,1249,8018,Islamabad
+Islamabad,14,Administrative and support service activities,77-82,1094,18827,Islamabad
+Islamabad,15,Public administration and defence; compulsory social security,84,710,29417,Islamabad
+Islamabad,16,Education,85,4183,114155,Islamabad
+Islamabad,17,Human health and social work activities,86-88,2150,25266,Islamabad
+Islamabad,18,"Arts, entertainment and recreation",90-93,390,3346,Islamabad
+Islamabad,19,Other service activities,94-96,8843,52638,Islamabad
+Islamabad,20,Activities of extraterritorial organizations and bodies,99,0,0,Islamabad
+Islamabad,21,Others,,315,3227,Islamabad

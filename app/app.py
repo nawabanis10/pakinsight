@@ -4,12 +4,32 @@ import pandas as pd
 from pathlib import Path
 import plotly.express as px
 from home_ui import inject_css, render_sidebar, render_home
-from sqlalchemy import create_engine
 import os
 from dotenv import load_dotenv
 from pathlib import Path
-from db_config import engine
 
+from sqlalchemy import create_engine
+from sqlalchemy.engine import URL
+
+@st.cache_resource
+def get_engine():
+    config = st.secrets["mysql"]
+
+    connection_url = URL.create(
+        "mysql+pymysql",
+        username=config["username"],
+        password=config["password"],
+        host=config["host"],
+        port=int(config["port"]),
+        database=config["database"]
+    )
+
+    return create_engine(
+        connection_url,
+        connect_args={"ssl": {"check_hostname": False}}
+    )
+
+engine = get_engine()
 
 # Page configuration
 st.set_page_config(
